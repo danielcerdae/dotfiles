@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = danielcerda.e@gmail.com
+	name = Daniel Cerda
